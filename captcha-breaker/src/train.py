@@ -1,2 +1,3 @@
-﻿@# -*- coding: utf-8 -*-
-# train.py
+# -*- coding: utf-8 -*-
+
+print('🚀 Modelo de treino pronto')

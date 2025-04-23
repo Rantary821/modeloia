@@ -1,2 +1,7 @@
-﻿@# -*- coding: utf-8 -*-
-# config.py
+# -*- coding: utf-8 -*-
+
+CHARSET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
+IMAGE_HEIGHT = 50
+IMAGE_WIDTH = 200
+IMAGE_CHANNELS = 1
+MODEL_SAVE_PATH = 'models/captcha_model.h5'
